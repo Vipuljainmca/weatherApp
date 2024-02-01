@@ -12,7 +12,7 @@ This is a simple React-based weather application that allows users to search for
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Vipuljainmca/weaterApp.git
+    git clone https://github.com/Vipuljainmca/weatherApp.git
     ```
 
 2. **Change to the project directory:**
