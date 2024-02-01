@@ -8,6 +8,9 @@ This is a simple React-based weather application that allows users to search for
 - Change temperature units between Celsius and Fahrenheit.
 - Display additional weather details such as sunrise, sunset, wind speed, and more.
 
+- ## Live Application Link
+- Live Application Link:   https://weather-app-vipul.netlify.app
+
 ## Installation
 
 1. **Clone the repository:**
