@@ -4,7 +4,7 @@ This is a simple React-based weather application that allows users to search for
 
 ## Features
 - Search for current weather information and forecast by city name.
-- View hourly and daily forecast details.
+- View daily forecast details.
 - Change temperature units between Celsius and Fahrenheit.
 - Display additional weather details such as sunrise, sunset, wind speed, and more.
 
